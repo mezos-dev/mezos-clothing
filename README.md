@@ -94,7 +94,7 @@ Serve the `html/` folder over http (for example `npx http-server html`) and open
 
 ## In-game test checklist
 
-- [ ] An existing character spawns with their old qb-clothing look, including the multicharacter preview.
+- [x] An existing character spawns with their old qb-clothing look, including the multicharacter preview.
 - [ ] A new character goes through Genesis both with and without starting apartments, and comes back to the right spot.
 - [ ] Clothing / barber / surgeon / tattoo purchase: the charge matches the cart, and the look persists after relog.
 - [ ] Exiting a store with unpaid changes reverts them.
