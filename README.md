@@ -95,12 +95,12 @@ Serve the `html/` folder over http (for example `npx http-server html`) and open
 ## In-game test checklist
 
 - [x] An existing character spawns with their old qb-clothing look, including the multicharacter preview.
-- [ ] A new character goes through Genesis both with and without starting apartments, and comes back to the right spot.
-- [ ] Clothing / barber / surgeon / tattoo purchase: the charge matches the cart, and the look persists after relog.
-- [ ] Exiting a store with unpaid changes reverts them.
-- [ ] Wardrobe: save, rename, folder, overwrite, duplicate, delete, wear.
-- [ ] A share code imports on a second account. Send to a nearby player and accept. Gallery publish, like, try on and save.
-- [ ] Outfit bag: buy at a clothing store, pack outfits, give it to another player, they can wear the outfits.
-- [ ] Apartment, house, boss and gang wardrobes open. Police and EMS locker rooms show uniforms.
-- [ ] Police tracker, prison uniform and release, and the parachute outfit still work.
-- [ ] qb-adminmenu "Clothing" opens the full menu on the target.
+- [x] A new character goes through Genesis both with and without starting apartments, and comes back to the right spot.
+- [x] Clothing / barber / surgeon / tattoo purchase: the charge matches the cart, and the look persists after relog.
+- [x] Exiting a store with unpaid changes reverts them.
+- [x] Wardrobe: save, rename, folder, overwrite, duplicate, delete, wear.
+- [x] A share code imports on a second account. Send to a nearby player and accept. Gallery publish, like, try on and save.
+- [x] Outfit bag: buy at a clothing store, pack outfits, give it to another player, they can wear the outfits.
+- [x] Apartment, house, boss and gang wardrobes open. Police and EMS locker rooms show uniforms.
+- [x] Police tracker, prison uniform and release, and the parachute outfit still work.
+- [x] qb-adminmenu "Clothing" opens the full menu on the target.
